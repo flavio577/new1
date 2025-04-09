@@ -1,0 +1,43 @@
+h1 {
+text-align: center;
+color:limegreen;                 }
+
+h2 {
+text-align: center;
+color:SlateGray;}
+
+h3 {
+text-align:center;
+color:darkgreen;}
+
+h4 {
+text-align:center;}
+
+
+q {
+color:blue;}
+
+
+
+p {
+text-align: center;
+background:white;}
+
+table { width: 100%; border-collapse: collapse; } 
+
+.ingredienti{
+	max-width:300px;
+	margin:auto;
+	background:YellowGreen;
+}
+
+#preparazione {
+	margin:auto;
+max-width:300px;
+background:SandyBrown;}
+
+#Valori{
+	margin:auto;
+max-width:300px;
+background:yellow;}
+	
